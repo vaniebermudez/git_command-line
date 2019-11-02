@@ -1,2 +1,3 @@
 # my-first-repo
-## Intro to Git
+1. Intro to Git
+2. Intro to Command-line
